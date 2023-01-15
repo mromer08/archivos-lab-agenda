@@ -34,7 +34,7 @@ Muestra los contactos almacenados en forma de tabla por consola. Por ejemplo:
 | No. |NOMBRE     |TELÉFONO       |CORREO                            |RED SOCIAL                  |
 +-----+-----------+---------------+----------------------------------+----------------------------+
 |00001|LUIS       |+502 5369 8745 |luis.killer@gmail.com             |https://fb.com/luis         |
-|00002|MANUEL     |+502 4265 9845 |202030799manuelrojas@cunoc.edu.gt |https://fb.com/manuel.rojas |
+|00002|MANUEL     |+502 4265 9845 |manurojas@usac.edu.gt 			 |https://fb.com/manu.roj	  |
 |00003|MARIA      |+502 3365 4589 |marialop@hotmail.com              |https://fb.com/maria        |
 |00004|OSCAR      |+502 5523 9687 |oscar1236@gmail.com               |https://www.twitch.tv/os    |
 +-------------------------------------------------------------------------------------------------+
